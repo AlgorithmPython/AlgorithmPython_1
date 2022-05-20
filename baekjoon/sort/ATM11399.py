@@ -12,3 +12,4 @@ for i in range(N):
         sum += p[j]
 
 print(sum)
+
